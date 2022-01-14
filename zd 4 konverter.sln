@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zd 4 konverter", "zd 4 konverter\zd 4 konverter.csproj", "{F31A25D7-C985-49AE-9EFE-C6B8A73FF874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F31A25D7-C985-49AE-9EFE-C6B8A73FF874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31A25D7-C985-49AE-9EFE-C6B8A73FF874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31A25D7-C985-49AE-9EFE-C6B8A73FF874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31A25D7-C985-49AE-9EFE-C6B8A73FF874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B098C3F-DF77-45AD-87BF-B3BACA37B085}
+	EndGlobalSection
+EndGlobal
